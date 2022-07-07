@@ -1,6 +1,9 @@
 ### 👋 About
 Passion for technology, code, games & blockchains.
 
+### ⚡ Projects
+Currently trying to get more fluent in Rust. Doing some game jam from time to time using Godot.
+
 ### 🎮 Games
 * [Simulation Theory](https://github.com/NimbleBeasts/NbGameOff2021)
 * [Moonshot](https://github.com/NimbleBeasts/NbMoonshot)
