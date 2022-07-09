@@ -5,12 +5,12 @@ Passion for technology, code, games & blockchains.
 Currently trying to get more fluent in Rust. Doing some game jam from time to time using Godot.
 
 ### 🎮 Games
-* 🧬 [Simulation Theory](https://github.com/NimbleBeasts/NbGameOff2021) GameOff2021
-* 🚀 [Moonshot](https://github.com/NimbleBeasts/NbMoonshot) Steam
-* 🧑‍🤝‍🧑 [Inroads](https://github.com/NimbleBeasts/BrackeysGameJam2021.1) BrackeysGameJam2021.1
-* 🛤️ [Rail & Write](https://github.com/NimbleBeasts/GodotWildJam17) GodotWildJam17
-* 🌍 [Final Bastion](https://github.com/themangomago/FinalBastion-OpenJam2019) OpenJam2019
-* 🐛 [Leaps & Bounds](https://github.com/themangomago/GameOff2019) GameOff2019
+* 🧬 [Simulation Theory](https://github.com/NimbleBeasts/NbGameOff2021) | Entry for GameOff2021
+* 🚀 [Moonshot](https://github.com/NimbleBeasts/NbMoonshot) | Game released on Steam
+* 🧑‍🤝‍🧑 [Inroads](https://github.com/NimbleBeasts/BrackeysGameJam2021.1) | Entry for BrackeysGameJam2021.1
+* 🛤️ [Rail & Write](https://github.com/NimbleBeasts/GodotWildJam17) | Entry for GodotWildJam17
+* 🌍 [Final Bastion](https://github.com/themangomago/FinalBastion-OpenJam2019) | Entry for OpenJam2019
+* 🐛 [Leaps & Bounds](https://github.com/themangomago/GameOff2019) | Entry for GameOff2019
 
 
 ### 🔨 GameDev Tools
