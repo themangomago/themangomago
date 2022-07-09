@@ -22,6 +22,7 @@ Currently trying to get more fluent in Rust. Doing some game jam from time to ti
 * [Godot Risk Map](https://github.com/NimbleBeasts/NbGodotRiskMap.git)
 
 ### ⚙️ Others
+* 🤖 [Discord Bot in Rust](https://github.com/themangomago/mango-bot-rust)
 * [Chip8 Emulator in Rust](https://github.com/themangomago/chip8-rust)
 * [NFT Project on Ethereum](https://github.com/leavingendora/tweetamon-nft)
 
