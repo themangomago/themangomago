@@ -14,7 +14,7 @@ Currently trying to get more fluent in Rust. Doing some game jam from time to ti
 
 
 ### 🔨 GameDev Tools
-* 🧩 [Godot Boilerplate for 3.x](https://github.com/NimbleBeasts/NbGodotBoilerplate)
+* 🧩 [Godot Boilerplate for 3.x](https://github.com/NimbleBeasts/NbGodotBoilerplate) | Kickstart your Godot projects with this feature rich boilerplate
 * 👗 [Godot Simple Theme for 3.x](https://github.com/themangomago/godot-simpleTheme)
 * 🔍 [Godot Version Selector](https://github.com/themangomago/godot-version-selector)
 * 🧩 [NES Boilerplate](https://github.com/themangomago/nes-boilerplate)
