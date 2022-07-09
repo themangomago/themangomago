@@ -15,16 +15,16 @@ Currently trying to get more fluent in Rust. Doing some game jam from time to ti
 
 ### 🔨 GameDev Tools
 * 🧩 [Godot Boilerplate for 3.x](https://github.com/NimbleBeasts/NbGodotBoilerplate) | Kickstart your Godot projects with this feature rich boilerplate
-* 👗 [Godot Simple Theme for 3.x](https://github.com/themangomago/godot-simpleTheme)
-* 🔍 [Godot Version Selector](https://github.com/themangomago/godot-version-selector)
-* 🧩 [NES Boilerplate](https://github.com/themangomago/nes-boilerplate)
-* 🧩 [Godot Project Management Plugin](https://github.com/NimbleBeasts/NbGodotProjectManagement)
-* 🗺️ [Godot Risk Map](https://github.com/NimbleBeasts/NbGodotRiskMap.git)
+* 👗 [Godot Simple Theme for 3.x](https://github.com/themangomago/godot-simpleTheme) | Simple and configurable theme for 3.x
+* 🔍 [Godot Version Selector](https://github.com/themangomago/godot-version-selector) | Handy tool to manage multiple Godot engine variants
+* 🧩 [NES Boilerplate](https://github.com/themangomago/nes-boilerplate) | Kickstart your NES project
+* 🧩 [Godot Project Management Plugin](https://github.com/NimbleBeasts/NbGodotProjectManagement) | Kanban style project management plugin for Godot 3.x
+* 🗺️ [Godot Risk Map](https://github.com/NimbleBeasts/NbGodotRiskMap.git) | Simple Risk-like map for Godot 3.x
 
 ### ⚙️ Others
-* 🤖 [Discord Bot in Rust](https://github.com/themangomago/mango-bot-rust)
-* 👾 [Chip8 Emulator in Rust](https://github.com/themangomago/chip8-rust)
-* 🖼️ [NFT Project on Ethereum](https://github.com/leavingendora/tweetamon-nft)
+* 🤖 [Discord Bot in Rust](https://github.com/themangomago/mango-bot-rust) | Discord bot that watches Git repos for commits
+* 👾 [Chip8 Emulator in Rust](https://github.com/themangomago/chip8-rust) | Yet another Chip8 emulator implementation in Rust
+* 🖼️ [NFT Project on Ethereum](https://github.com/leavingendora/tweetamon-nft) | Full stack NFT project on Ethereum
 
 <!--
 **themangomago/themangomago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
