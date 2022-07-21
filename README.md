@@ -1,5 +1,5 @@
 ### 👋 About
-Passion for technology, code, games & blockchains.
+Passion for technology, crypto, games & blockchains.
 
 ### ⚡ Projects
 Currently trying to get more fluent in Rust. Doing some game jams from time to time using Godot.
