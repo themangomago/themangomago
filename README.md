@@ -1,5 +1,5 @@
 ### 👋 About
-Passion for technology, crypto, games & blockchains.
+Passion for technology, cryptography, games & blockchains.
 
 ### ⚡ Projects
 Currently exploring Nostr. Doing some game jams from time to time using Godot.
