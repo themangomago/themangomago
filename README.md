@@ -30,7 +30,6 @@ Currently exploring Nostr. Doing some game jams from time to time using Godot.
 
 ### ⚙️ Others
 * 🖼️ [NFT Project on Ethereum](https://github.com/leavingendora/tweetamon-nft) | Full stack NFT project on Ethereum
-* 🧷 [Nostr-Cli](https://github.com/themangomago/nostr-cli) | Super tiny Nostr CLI for testing purpose
 
 <!--
 **themangomago/themangomago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
