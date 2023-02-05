@@ -4,6 +4,9 @@ Passion for technology, cryptography, games & blockchains.
 ### ⚡ Projects
 Currently exploring Nostr. Doing some game jams from time to time using Godot.
 
+### Nostr
+* 👨‍💻 [NostrCLI](https://github.com/themangomago/nostr-cli) | Simple Nostr CLI
+
 ### 🎮 Games
 * 🧬 [Simulation Theory](https://github.com/NimbleBeasts/NbGameOff2021) | Entry for GameOff2021
 * 🚀 [Moonshot](https://github.com/NimbleBeasts/NbMoonshot) | Game released on Steam
