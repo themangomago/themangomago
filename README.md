@@ -4,7 +4,7 @@ Passion for technology, cryptography, games & blockchains.
 ### ⚡ Projects
 Currently exploring Nostr. Doing some game jams from time to time using Godot.
 
-### Nostr
+### 🖧 Nostr
 * 👨‍💻 [NostrCLI](https://github.com/themangomago/nostr-cli) | Simple Nostr CLI
 
 ### 🎮 Games
