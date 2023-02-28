@@ -15,6 +15,7 @@ Currently exploring Nostr. Doing some game jams from time to time using Godot.
 * 🛤️ [Rail & Write](https://github.com/NimbleBeasts/GodotWildJam17) | Entry for GodotWildJam17
 * 🌍 [Final Bastion](https://github.com/themangomago/FinalBastion-OpenJam2019) | Entry for OpenJam2019
 * 🐛 [Leaps & Bounds](https://github.com/themangomago/GameOff2019) | Entry for GameOff2019
+* 👻 [GhostStory](https://github.com/themangomago/NbGhostStory) | A Celeste-like Platformer
 
 ### 🔨 GameDev Tools
 * 🧩 [Godot Boilerplate for 3.x](https://github.com/NimbleBeasts/NbGodotBoilerplate) | Kickstart your Godot projects with this feature rich boilerplate
