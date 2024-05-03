@@ -2,7 +2,7 @@
 Passion for technology, cryptography, games & blockchains.
 
 ### ⚡ Projects
-Currently exploring Nostr. Doing some game jams from time to time using Godot.
+Currently working on [Ruins To Fortress](https://www.ruinstofortress.com/). And also do some game jams from time to time using Godot.
 
 ### 🌐 Nostr
 * 👨‍💻 [NostrCLI](https://github.com/themangomago/nostr-cli) | Simple Nostr CLI
