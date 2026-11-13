@@ -1,5 +1,5 @@
 ### 👋 About
-Passion for technology, cryptography, games & blockchains.
+Passion for technology.
 
 ### ⚡ Projects
 Currently working on [Ruins To Fortress](https://www.ruinstofortress.com/). And also do some game jams from time to time using Godot.
